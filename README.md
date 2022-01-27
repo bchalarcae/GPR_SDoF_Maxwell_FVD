@@ -1,7 +1,7 @@
-# Parametric Study and Prediction Models of the Seismic Response of Single-Degree-of-Freedom Structural Systems equipped with Maxwell Material Fluid Viscous Dampers. 
+# Parametric Study and Prediction Models of the Seismic Response of Single-Degree-of-Freedom Structural Systems Equipped with Maxwell Material Fluid Viscous Dampers. 
 
 Parametric Study and Prediction Models of the Seismic Response of
-Single-Degree-of-Freedom Structural Systems equipped with Maxwell Material Fluid Viscous Dampers.
+Single-Degree-of-Freedom Structural Systems Equipped with Maxwell Material Fluid Viscous Dampers.
 Bryan Chalarca, Andre Filiatrault, Daniele Perrone.
 University School for Advanced Studies IUSS Pavia, Italy.
 January 2022.
