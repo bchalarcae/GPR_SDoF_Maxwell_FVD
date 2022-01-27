@@ -20,7 +20,7 @@ and each column a input variable: Period (s), Maxwell Stiffness as a fraction of
 stiffness (Kd/Kmod), Supplemental damping ratio as % (e.g. 10), Seismic intensity as the ground spectral
 acceleration at 1 s in g (e.g. 0.6), and velocity exponent of FVD. [T Kd/Kmod Damp Sa Alpha];
 
-The *.mat files contain the GPR models including the original data point used to calibrate the models
+The *.rar files contain the GPR models including the original data point used to calibrate the models
 as well as all the parameters obtained from the optimization process carried out by the Regression Learner app
 in MATLAB 2020b. Further information about the model calibration can be found at:
 https://www.mathworks.com/help/stats/train-regression-models-in-regression-learner-app.html
