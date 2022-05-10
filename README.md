@@ -6,13 +6,13 @@ Bryan Chalarca, Andre Filiatrault, Daniele Perrone.
 University School for Advanced Studies IUSS Pavia, Italy.
 January 2022.
 
-Gaussian Process Regression models to predict the peak absolute
-acceleration (MPAA), peak mass absolute spectral acceleration (MPMASA),
+Gaussian Process Regression models to predict the peak floor absolute
+acceleration (MPFAA), peak floor absolute spectral acceleration (MPFASA),
 peak relative velocity (MPRV), and the peak relative displacement (MPRD),
 as a factor of such value in an equivalent SDoF model without dampers.
 
 To use the prediction models in MATLAB, listed:
-N_MPAA_model.mat, N_MPMASA_model.mat, N_MPRD_model.mat, N_MPRV_model.mat,
+N_MPFAA_model.mat, N_MPFASA_model.mat, N_MPRD_model.mat, N_MPRV_model.mat,
 open the MATLAB script "Prediction_models.m"
 The input data to generate the prediction can be save in a txt file o be defined as
 a matrix in MATLAB. The order of the variables is important. Each row represent a data point
